@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: turquoise;
+    text-shadow:1px 2px 3px tomato ;
+}
+
+
+input,label{
+    margin: 7px;
+    padding: 5px 5px;
+    font-size: 28px;
+    border-radius: 10px;
+
+}
+
+label{
+    text-transform: capitalize;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.gen{
+    font-size: 28px;
+}
+
+.container{
+    margin: 23px;
+    align-items: center;
+}
+
+#btn{
+    
+    margin: 30px 1%;
+    padding: 5px 38px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+}
